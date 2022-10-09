@@ -1,0 +1,14 @@
+Perlu diketahui bahwasannya RapidMiner ialah platform perangkat lunak data ilmu pengetahuan yang dikembangkan olehperusahaan dengan nama yang sama, yang menyediakan lingkungan terpadu untuk pembelajaranmesin(machine learning), pembelajaran mendalam(deep learning), penambangan teks(text mining),dan analisis prediktif(predictive analytics). 
+Tutorial penginstallan Rapid Miner Studio ialah sebagai berikut:
+1. Rapidminer dapat diunduh kita melalui link rapidminer.com
+2. Terdapat 2 versi rapidminer untuk sistem operasi windows, yaitu 32 Bit serta 64 Bit. Untuk mengatahui jenis sistem komputer kita 32 Bit atau 64 Bit, jalankan perintah dxdiag dengan menekan 2 tombol bersamaan yaitu logo windows dan huruf R, ketikkan dxdiag kemudian klik tombol OK. 
+3. Akan terlihat jenis sistem opersi yang dipakai adalah sistem operasi Windows7 dengan jenis 64 Bit. Jadi harus kita mengunduh yang versi 64 Bit
+4. Lakukan instalasi secara biasa, kemudian kita jalankan, ketika keluar jendela dialog End User License Agreement, beri tanda centang pada opsi have read and understand the terms. Kemudian jangan lupa tekan tombol I Accept, yang berarti saya setuju.
+5. Pada kotak dialog Create a RapidMiner account, kita pilih opsi Educational.
+6. Jangan lupa isikan nama lengkap, Email, dan Password. Kemudian tekan tombol Create my Account.
+7. Buka alamat email kita, lalu lakukan konfirmasi dengan menekan tautan yang ada ada di email.
+8. Selanjutnya sistem akan membuka browser secara otomatis, isikan email dan password saat registrasi pertama kali.
+9. Kita kembali ke perangkat lunak Rapidminer, tekan tombol I'm Ready.
+10. Akan keluar tampilan lingkungan terpadu (IDE) dari Rapidminer.
+
+Rapidminer berhasil diinstall.
